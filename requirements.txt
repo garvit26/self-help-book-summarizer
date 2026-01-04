@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langchain-chroma
+chromadb
+pymupdf
